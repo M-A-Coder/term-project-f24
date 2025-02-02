@@ -1,0 +1,15 @@
+{
+  "rules": {
+    "color-no-invalid-hex": true,
+    "font-family-no-duplicate-names": true,
+    "unit-no-unknown": true,
+    "block-no-empty": true,
+    "declaration-block-no-duplicate-properties": true,
+    "selector-pseudo-class-no-unknown": true,
+    "property-no-unknown": true,
+    "no-duplicate-selectors": true,
+    "no-empty-source": true,
+    "length-zero-no-unit": true
+  }
+}
+
