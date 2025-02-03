@@ -1,0 +1,12 @@
+{
+    "tag-pair": true,
+    "doctype-first": true,
+    "html-lang-require": true,
+    "style-disabled": true,
+    "title-require": true,
+    "attr-lowercase": true,
+    "inline-script-disabled": true,
+    "inline-style-disabled": true,
+    "id-unique": true,
+    "attr-whitespace": true
+}
